@@ -1,0 +1,54 @@
+
+
+Working Set(rss memory): 123396096 
+Private Bytes: 37515264 
+CPU used(in percentage): 35 
+
+Working Set(rss memory): 137244672 
+Private Bytes: 44802048 
+CPU used(in percentage): 58 
+
+Working Set(rss memory): 147046400 
+Private Bytes: 51367936 
+CPU used(in percentage): 47 
+
+Working Set(rss memory): 151797760 
+Private Bytes: 55144448 
+CPU used(in percentage): 46 
+
+Working Set(rss memory): 158093312 
+Private Bytes: 60997632 
+CPU used(in percentage): 53 
+
+Working Set(rss memory): 162451456 
+Private Bytes: 65175552 
+CPU used(in percentage): 40 
+
+Working Set(rss memory): 167890944 
+Private Bytes: 70397952 
+CPU used(in percentage): 35 
+
+Working Set(rss memory): 172343296 
+Private Bytes: 75108352 
+CPU used(in percentage): 47 
+
+Working Set(rss memory): 175214592 
+Private Bytes: 78581760 
+CPU used(in percentage): 10 
+
+Working Set(rss memory): 174817280 
+Private Bytes: 79650816 
+CPU used(in percentage): 7 
+
+Working Set(rss memory): 171618304 
+Private Bytes: 76095488 
+CPU used(in percentage): 18 
+
+Working Set(rss memory): 171266048 
+Private Bytes: 76005376 
+CPU used(in percentage): 4 
+
+Working Set(rss memory): 172605440 
+Private Bytes: 77250560 
+CPU used(in percentage): 6 
+
